@@ -79,7 +79,7 @@ li  {
     font-size: 0.6em;
     background-color: #45abea;
     padding: 0px 10px;
-    border-radius: 40%;
+    border-radius: 20%;
 }
 
 .viola  {
@@ -88,7 +88,7 @@ li  {
     font-size: 0.6em;
     background-color: #9c72e4;
     padding: 0px 10px;
-    border-radius: 40%;
+    border-radius: 20%;
 }
 
 .verde  {
@@ -97,7 +97,7 @@ li  {
     font-size: 0.6em;
     background-color: #64c0a9;
     padding: 0px 10px;
-    border-radius: 40%;
+    border-radius: 20%;
 }
 
 .arancione  {
@@ -106,7 +106,7 @@ li  {
     font-size: 0.6em;
     background-color: #f29e33;
     padding: 0px 10px;
-    border-radius: 40%;
+    border-radius: 20%;
 }
 
 .rosa  {
@@ -115,7 +115,7 @@ li  {
     font-size: 0.6em;
     background-color: #d863a1;
     padding: 0px 10px;
-    border-radius: 40%;
+    border-radius: 20%;
 }
 
 .verde-chiaro  {
@@ -124,5 +124,5 @@ li  {
     font-size: 0.6em;
     background-color: #b0c926;
     padding: 0px 10px;
-    border-radius: 40%;
+    border-radius: 20%;
 }
