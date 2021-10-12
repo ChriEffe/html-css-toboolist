@@ -68,9 +68,13 @@ ul  {
     padding: 15px;
 }
 
-li  {
-    margin-left: 25px;
+.title  {
+    list-style-type: none;
+}
+
+.check  {
     list-style-image: url(https://lh4.googleusercontent.com/-6o-hCK6GULw/UiEydedhX2I/AAAAAAAAjTI/_u9YCgNgGwI/s10/check-10x10.png);
+    margin-left: 20px;
 }
 
 .blu  {
