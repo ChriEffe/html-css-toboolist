@@ -7,7 +7,7 @@
 }
 
 body  {
-    background-color: brown;
+    background-color: #f6f8f9;
 }
 
 main  {
@@ -35,7 +35,7 @@ header h1  {
 .input-button  {
     background-color: white;
     line-height: 60px;
-    padding: 0px 35px;
+    padding: 0px 50px;
     margin-bottom: 2px;
 }
 
@@ -58,3 +58,71 @@ input  {
 }
 
 /*list*/
+.list  {
+    background-color: white;
+    padding: 0px 30px;
+}
+
+ul  {
+    line-height: 25px;
+    padding: 15px;
+}
+
+li  {
+    margin-left: 25px;
+    list-style-image: url(https://lh4.googleusercontent.com/-6o-hCK6GULw/UiEydedhX2I/AAAAAAAAjTI/_u9YCgNgGwI/s10/check-10x10.png);
+}
+
+.blu  {
+    display: inline-block;
+    color: white;
+    font-size: 0.6em;
+    background-color: #45abea;
+    padding: 0px 10px;
+    border-radius: 40%;
+}
+
+.viola  {
+    display: inline-block;
+    color: white;
+    font-size: 0.6em;
+    background-color: #9c72e4;
+    padding: 0px 10px;
+    border-radius: 40%;
+}
+
+.verde  {
+    display: inline-block;
+    color: white;
+    font-size: 0.6em;
+    background-color: #64c0a9;
+    padding: 0px 10px;
+    border-radius: 40%;
+}
+
+.arancione  {
+    display: inline-block;
+    color: white;
+    font-size: 0.6em;
+    background-color: #f29e33;
+    padding: 0px 10px;
+    border-radius: 40%;
+}
+
+.rosa  {
+    display: inline-block;
+    color: white;
+    font-size: 0.6em;
+    background-color: #d863a1;
+    padding: 0px 10px;
+    border-radius: 40%;
+}
+
+.verde-chiaro  {
+    display: inline-block;
+    color: white;
+    font-size: 0.6em;
+    background-color: #b0c926;
+    padding: 0px 10px;
+    border-radius: 40%;
+}
