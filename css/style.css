@@ -10,6 +10,10 @@ body  {
     background-color: brown;
 }
 
+main  {
+    padding: 50px 100px;
+}
+
 /*header*/
 header  {
     height: 80px;
@@ -26,3 +30,31 @@ header h1  {
     display: inline-block;
     font-size: 35px;
 }
+
+/*main*/
+.input-button  {
+    background-color: white;
+    line-height: 60px;
+    padding: 0px 35px;
+    margin-bottom: 2px;
+}
+
+input  {
+    font-weight: 500;
+    padding: 5px;;
+    border-radius: 15%;
+}
+
+#task  {
+    background-color: #47adf1;
+    color: white;
+    border: 0;
+}
+
+#section  {
+    background-color: white;
+    color: #d6dade;
+    border-color :#d6dade;
+}
+
+/*list*/
